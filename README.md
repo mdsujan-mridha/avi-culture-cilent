@@ -31,11 +31,10 @@ Check out the live demo of the application :-.
 
 ## Screenshots
 
-![Home Page](path-to-your-screenshot)
-![Bird Listings](path-to-your-screenshot)
-![Educational Content](path-to-your-screenshot)
-![Community Forum](path-to-your-screenshot)
-![Admin Dashboard](path-to-your-screenshot)
+![Home Page](https://github.com/mdsujan-mridha/avi-culture-cilent/blob/main/images/aviculture.png)
+![Bird Listings](https://github.com/mdsujan-mridha/avi-culture-cilent/blob/main/images/blog-page.png)
+![Educational Content](https://github.com/mdsujan-mridha/avi-culture-cilent/blob/main/images/product-page.png)
+
 
 ## Installation
 
@@ -43,11 +42,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mdsujan-mridha/aviculture-client.git
+   git clone https://github.com/mdsujan-mridha/avi-culture-cilent.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd aviculture-client
+   cd avi-culture-cilent
    ```
 3. Install the dependencies for both the client and server:
    ```bash
@@ -58,6 +57,7 @@ To run this project locally, follow these steps:
    npm start
    ```
 ## Server site:
+[Here is your server site](https://github.com/mdsujan-mridha/aviculture-server.git)
 1. lone the repository:
   ```bash
   git clone https://github.com/mdsujan-mridha/aviculture-server.git
